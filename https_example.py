@@ -1,4 +1,4 @@
-# Pradeep Rajalingam
+# Pradeep Rajalinga
 import socket, ssl
 
 context = ssl.SSLContext(ssl.PROTOCOL_TLSv1)
